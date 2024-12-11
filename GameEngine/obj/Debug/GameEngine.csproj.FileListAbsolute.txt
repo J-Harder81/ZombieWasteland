@@ -1,0 +1,6 @@
+C:\CSC180Project\GameEngine\bin\Debug\GameEngine.dll
+C:\CSC180Project\GameEngine\bin\Debug\GameEngine.pdb
+C:\CSC180Project\GameEngine\obj\Debug\GameEngine.csproj.AssemblyReference.cache
+C:\CSC180Project\GameEngine\obj\Debug\GameEngine.csproj.CoreCompileInputs.cache
+C:\CSC180Project\GameEngine\obj\Debug\GameEngine.dll
+C:\CSC180Project\GameEngine\obj\Debug\GameEngine.pdb

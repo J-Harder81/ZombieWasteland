@@ -1,0 +1,13 @@
+C:\CSC180Project\ZombieWasteland\bin\Debug\ZombieWasteland.exe.config
+C:\CSC180Project\ZombieWasteland\bin\Debug\ZombieWasteland.exe
+C:\CSC180Project\ZombieWasteland\bin\Debug\ZombieWasteland.pdb
+C:\CSC180Project\ZombieWasteland\bin\Debug\GameEngine.dll
+C:\CSC180Project\ZombieWasteland\bin\Debug\GameEngine.pdb
+C:\CSC180Project\ZombieWasteland\obj\Debug\ZombieWasteland.csproj.AssemblyReference.cache
+C:\CSC180Project\ZombieWasteland\obj\Debug\ZombieWasteland.Properties.Resources.resources
+C:\CSC180Project\ZombieWasteland\obj\Debug\ZombieWasteland.csproj.GenerateResource.cache
+C:\CSC180Project\ZombieWasteland\obj\Debug\ZombieWasteland.csproj.CoreCompileInputs.cache
+C:\CSC180Project\ZombieWasteland\obj\Debug\ZombieWa.C9A8BE92.Up2Date
+C:\CSC180Project\ZombieWasteland\obj\Debug\ZombieWasteland.exe
+C:\CSC180Project\ZombieWasteland\obj\Debug\ZombieWasteland.pdb
+C:\CSC180Project\ZombieWasteland\obj\Debug\ZombieWasteland.ZombieWasteland.resources

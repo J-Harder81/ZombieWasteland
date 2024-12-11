@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZombieWasteland", "ZombieWasteland.csproj", "{BE9DE11F-AFCA-4FE7-8837-66A4155909A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameEngine", "..\GameEngine\GameEngine.csproj", "{E630ECA9-8C2C-457F-85CD-D3E8AA76400C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE9DE11F-AFCA-4FE7-8837-66A4155909A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE9DE11F-AFCA-4FE7-8837-66A4155909A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE9DE11F-AFCA-4FE7-8837-66A4155909A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE9DE11F-AFCA-4FE7-8837-66A4155909A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E630ECA9-8C2C-457F-85CD-D3E8AA76400C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E630ECA9-8C2C-457F-85CD-D3E8AA76400C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E630ECA9-8C2C-457F-85CD-D3E8AA76400C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E630ECA9-8C2C-457F-85CD-D3E8AA76400C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5607F13-D40C-4826-B788-D772DDA97640}
+	EndGlobalSection
+EndGlobal
